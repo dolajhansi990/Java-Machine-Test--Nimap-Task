@@ -44,7 +44,7 @@ public class CategoryController {
 
   private CategoryService categoryService;
 
-  // 1. Get all categories with pagination
+  // 1. Get all the categories with pagination.......!
 
   @GetMapping
 
